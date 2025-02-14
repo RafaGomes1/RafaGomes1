@@ -67,11 +67,11 @@
 
   <img src="https://github.com/RafaGomes1/LI1/blob/main/images/MenuInicial.png?raw=true" width="300" />
   
-### 1st Year - 2st Semester
+### 1st Year - 2nd Semester
 - [Laboratórios de Informática II](https://github.com/RafaGomes1/LI2)
 
 
-### 2st Year - 1st Semester
+### 2nd Year - 1st Semester
 
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
 
