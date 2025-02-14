@@ -1,8 +1,8 @@
  # Hi, I'm Rafael! 👋
 
 🧑🏽‍💻 Software Engineer<br/>
-🧑🏽‍🎓 Bachelor's Degree [Licenciatura em Engenharia Informática](https://web.di.uminho.pt/sitedi/enginf/) at the [Universidade do Minho](https://www.uminho.pt/PT)<br/>
-🔃 Currently in the Master Degree [Mestrado em Engenharia Informática](https://web.di.uminho.pt/sitedi/meinf/) at the [Universidade do Minho](https://www.uminho.pt/PT)<br/>
+🧑🏽‍🎓 Bachelor's Degree in [Licenciatura em Engenharia Informática](https://web.di.uminho.pt/sitedi/enginf/) at the [Universidade do Minho](https://www.uminho.pt/PT)<br/>
+🔃 Currently in the Master Degree in [Mestrado em Engenharia Informática](https://web.di.uminho.pt/sitedi/meinf/) at the [Universidade do Minho](https://www.uminho.pt/PT)<br/>
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaGomes1&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
@@ -50,7 +50,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RafaGomes1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGomes1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍Contributions
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Goncalini/Goncalini/blob/output/github-snake-dark.svg" />
@@ -58,7 +58,16 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
----
+-------------------------------------------------------------------------------------------------------------------------------
+
+# University Projects
+## Bachelor's Degree (Licenciatura em Engenharia Informática)
+### 1st Year - 1st Semester
+- Laboratórios de Informática I
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
