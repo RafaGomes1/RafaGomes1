@@ -63,7 +63,7 @@
 # University Projects
 ## Bachelor's Degree (Licenciatura em Engenharia Informática)
 ### 1st Year - 1st Semester
-- Laboratórios de Informática I
+- [Laboratórios de Informática I](https://github.com/RafaGomes1/LI1)
 
 
 
