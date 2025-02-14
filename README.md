@@ -60,11 +60,13 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-# University Projects
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1200px-Minho_University.svg.png" width="55" /> University Projects
 ## Bachelor's Degree (Licenciatura em Engenharia Informática)
 ### 1st Year - 1st Semester
 - [Laboratórios de Informática I](https://github.com/RafaGomes1/LI1)
 
+  <img src="https://github.com/RafaGomes1/LI1/blob/main/images/MenuInicial.png?raw=true" width="300" />
+  
 
 
 
