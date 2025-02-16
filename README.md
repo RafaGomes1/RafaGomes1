@@ -50,8 +50,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RafaGomes1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGomes1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍 Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Goncalini/Goncalini/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Goncalini/Goncalini/blob/output/github-snake.svg" />
