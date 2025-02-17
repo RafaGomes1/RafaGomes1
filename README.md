@@ -75,6 +75,8 @@
   <img src="https://github.com/RafaGomes1/LI3/blob/main/images/Queries.png?raw=true" width="550" />
 
 ### 2nd Year - 2nd Semester
+- [Bases de Dados](https://github.com/RafaGomes1/BD)
+
 - [Investigação Operacional](https://github.com/RafaGomes1/IO)
 
 - [Programação Orientada aos Objetos](https://github.com/RafaGomes1/POO)
