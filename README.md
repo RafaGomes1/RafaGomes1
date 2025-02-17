@@ -63,7 +63,7 @@
 ### 1st Year - 1st Semester
 - [Laboratórios de Informática I](https://github.com/RafaGomes1/LI1)
 
-  <img src="https://github.com/RafaGomes1/LI1/blob/main/images/MenuInicial.png?raw=true" width="300" />
+  <img src="https://github.com/RafaGomes1/LI1/blob/main/images/MenuInicial.png?raw=true" width="450" />
   
 ### 1st Year - 2nd Semester
 - [Laboratórios de Informática II](https://github.com/RafaGomes1/LI2)
