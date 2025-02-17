@@ -83,6 +83,8 @@
 
 - [Redes de Computadores](https://github.com/RafaGomes1/RC)
 
+- [Sistemas Operativos](https://github.com/RafaGomes1/SO)
+
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
