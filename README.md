@@ -75,6 +75,9 @@
   <img src="https://github.com/RafaGomes1/LI3/blob/main/images/Queries.png?raw=true" width="550" />
 
 ### 2nd Year - 2nd Semester
+- [Programação Orientada aos Objetos](https://github.com/RafaGomes1/POO)
+
+  <img src="https://github.com/RafaGomes1/POO/blob/main/images/MenuInicial.png?raw=true" width="450" />
 
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
 
