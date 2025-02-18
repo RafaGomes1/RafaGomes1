@@ -89,7 +89,9 @@
 
 ### 3rd Year - 1st Semester
 - [Comunicações por Computador](https://github.com/RafaGomes1/CC)
+  
 - [Inteligência Artificial](https://github.com/RafaGomes1/IA)
+  
 - [Sistemas Distribuídos](https://github.com/RafaGomes1/SD)
 
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
