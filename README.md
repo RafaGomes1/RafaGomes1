@@ -108,6 +108,8 @@
 - [Computação Gráfica](https://github.com/RafaGomes1/CG)
 
   <img src="https://github.com/RafaGomes1/CG/blob/main/images/solarSystemComLuz.png?raw=true" width="450" />
+
+- [Interface Pessoa-Máquina](https://github.com/RafaGomes1/IPM)
   
 - [Processamento de Linguagens](https://github.com/RafaGomes1/PL)
 
