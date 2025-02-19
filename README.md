@@ -93,6 +93,10 @@
 - [Inteligência Artificial](https://github.com/RafaGomes1/IA)
 
   <img src="https://github.com/RafaGomes1/IA/blob/main/images/mapa.png?raw=true" width="450" />
+
+- [Laboratórios de Informática IV](https://github.com/RafaGomes1/LI4)
+
+  <img src="https://github.com/RafaGomes1/LI4/blob/main/images/paginaInicialAdministrador.png?raw=true" width="450" />
   
 - [Sistemas Distribuídos](https://github.com/RafaGomes1/SD)
 
