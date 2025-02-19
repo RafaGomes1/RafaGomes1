@@ -103,6 +103,8 @@
 - [Sistemas Distribuídos](https://github.com/RafaGomes1/SD)
 
 ### 3rd Year - 2nd Semester
+- [Aprendizagem e Decisão Inteligentes](https://github.com/RafaGomes1/ADI)
+  
 - [Computação Gráfica](https://github.com/RafaGomes1/CG)
 
   <img src="https://github.com/RafaGomes1/CG/blob/main/images/solarSystemComLuz.png?raw=true" width="450" />
