@@ -89,6 +89,8 @@
 
 ### 3rd Year - 1st Semester
 - [Comunicações por Computador](https://github.com/RafaGomes1/CC)
+
+- [Desenvolvimento de Sistemas de Software](https://github.com/RafaGomes1/DSS)
   
 - [Inteligência Artificial](https://github.com/RafaGomes1/IA)
 
