@@ -117,6 +117,8 @@
 
 ## Master's Degree (Mestrado em Engenharia Informática)
 ### 1st Year - 1st Semester
+- [Aplicações e Serviços de Computação em Nuvem](https://github.com/RafaGomes1/ASCN)
+  
 - [Computação Paralela](https://github.com/RafaGomes1/CP)
 
 - [Dados e Aprendizagem Automática](https://github.com/RafaGomes1/DAA)
