@@ -125,6 +125,8 @@
 
 - [Engenharia de Serviços em Rede](https://github.com/RafaGomes1/ESR)
 
+- [Requisitos e Arquiteturas de Software](https://github.com/RafaGomes1/RAS)
+
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
