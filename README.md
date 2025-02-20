@@ -117,6 +117,8 @@
 
 ## Master's Degree (Mestrado em Engenharia Informática)
 ### 1st Year - 1st Semester
+- [Computação Paralela](https://github.com/RafaGomes1/CP)
+
 - [Engenharia de Serviços em Rede](https://github.com/RafaGomes1/ESR)
 
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
