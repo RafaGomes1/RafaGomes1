@@ -129,6 +129,12 @@
 
   <img src="https://github.com/RafaGomes1/RAS/blob/main/Fase3/images/edit.png?raw=true" width="450" />
 
+---
+
+# ⚙️ Personal Projects
+
+
+
 [![](https://visitcount.itsvg.in/api?id=RafaGomes1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
