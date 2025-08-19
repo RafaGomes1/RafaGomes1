@@ -130,9 +130,16 @@
   <img src="https://github.com/RafaGomes1/RAS/blob/main/Fase3/images/edit.png?raw=true" width="450" />
 
 ### 1st Year - 2nd Semester
+
+#### Profile : [Engenharia do Conhecimento]
+
 - [Análise Inteligente em Sistemas de "Big Data"](https://github.com/RafaGomes1/AISBD)
  
 - [Bases de Dados NoSQL](https://github.com/RafaGomes1/BDnSQL)
+
+#### Profile : [Sistemas Inteligentes]
+
+- [Agentes e Sistemas Multiagente](https://github.com/RafaGomes1/ASMA)
 
 - [Sensorização e Ambiente](https://github.com/RafaGomes1/SA)
 
